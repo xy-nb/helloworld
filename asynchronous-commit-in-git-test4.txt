@@ -1,0 +1,1 @@
+git push a new file in git repository
